@@ -32,6 +32,7 @@ public class test {
         } else {
             System.out.println("OBJ() nie dziala");
         }
+        if()
 
             System.out.println("---TEST---");
 
