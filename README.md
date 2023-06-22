@@ -8,3 +8,5 @@ Okazało się, że plik Main.java, został w jakiś sposób zastąpiony hello wo
 - - - - 10:36 - - - -
       We wcześniejszych logach w InteliJ znalazłem prawidłową wersję Main.java, która się nie chciała dodać.
       Jeśli pushnięcie jej się nie powiedzie stworzę plik o nazwie main.java.
+- - - - 10:50 - - - -
+        UDAŁO SIĘ :D
